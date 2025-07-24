@@ -16,7 +16,7 @@ To analyze e-commerce data by integrating SQL queries with Python-based visualiz
 📂 Data Source
 
 The dataset consists of multiple CSV files (customers, orders, payments, products, order_items, sellers, geolocation) representing a full-scale e-commerce platform. Data was inserted into MySQL tables and analyzed using SQL + Python.
-Dataset used from: Brazilian E-commerce Public Dataset
+
 
 🔍 Key Insights & Features
 
